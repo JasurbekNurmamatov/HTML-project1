@@ -1,0 +1,12 @@
+#fig
+{
+	width: 250px;
+	float:left;
+	margin-right: 20px;
+}
+.clear
+{
+	position:static;
+	clear:right;
+	
+}
